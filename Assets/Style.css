@@ -1,0 +1,43 @@
+/* .navbar{
+    border: 1px solid black;
+} */
+
+body{
+    background-color: #ed0303;
+}
+
+#navbarTogglerDemo02{
+    justify-content: flex-end;
+    border-color: black;
+}
+
+nav.navbar{
+    background-color:#ed0303;
+    color: white;
+    border-bottom: 1px solid;
+}
+
+button.navbar-toggler{
+    border-color: black;
+}
+.btn-outline-success{
+    color: black;
+    border-color: black;
+}
+.btn-outline-success:hover{
+    background-color: grey;
+    border-color: grey;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+#consulta{
+    width: 30%;
+}
+#quienes{
+    width: 540px;
+    background-image: url('../img/429-4299580_dibujo-hierba-png-grass-pasto-vector-png.png');
+}
